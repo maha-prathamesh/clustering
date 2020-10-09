@@ -35,7 +35,7 @@ For example: Normal, Gaussian
 For example : DBSCAN and OPTICS
 
 
-In this notebook decribed KMeans Clustering:
+# In this notebook decribed KMeans Clustering:
 # How K-Means actually works?
 Step 1: Choose the number of clusters k
 Step 2: Select k random points from the data as centroids
