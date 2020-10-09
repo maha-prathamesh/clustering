@@ -37,16 +37,16 @@ For example : DBSCAN and OPTICS
 
 # In this notebook decribed KMeans Clustering:
 # How K-Means actually works?
-Step 1: Choose the number of clusters k
-Step 2: Select k random points from the data as centroids
-Step 3: Assign all the points to the closest cluster centroid
-Step 4: Recompute the centroids of newly formed clusters
-Step 5: Repeat steps 3 and 4
+Step 1: Choose the number of clusters k<br>
+Step 2: Select k random points from the data as centroids<br>
+Step 3: Assign all the points to the closest cluster centroid<br>
+Step 4: Recompute the centroids of newly formed clusters<br>
+Step 5: Repeat steps 3 and 4<br>
 
 # Stopping Criteria for K-Means Clustering
-1. Centroids of newly formed clusters do not change
-2. Points remain in the same cluster
-3. Maximum number of iterations are reached
+1. Centroids of newly formed clusters do not change<br>
+2. Points remain in the same cluster<br>
+3. Maximum number of iterations are reached<br>
 
 
 # How to Choose the Right Number of Clusters in K-Means Clustering?
