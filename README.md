@@ -50,5 +50,5 @@ Step 5: Repeat steps 3 and 4
 
 
 # How to Choose the Right Number of Clusters in K-Means Clustering?
-![Inertia](Intertia.png)
+![Inertia](https://github.com/maha-prathamesh/clustering/blob/main/Inertia.png)
  
