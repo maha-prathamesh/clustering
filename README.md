@@ -13,10 +13,10 @@ Clustering is the process of dividing the entire data into groups (also known as
 Broadly speaking, clustering can be divided into two subgroups :
 
 ## Hard Clustering: 
-In hard clustering, each data point either belongs to a cluster completely or not. For example, in the above example each customer is put into one group out of the 10 groups.
+In hard clustering, each data point either belongs to a cluster completely or not. 
 
 ## Soft Clustering: 
-In soft clustering, instead of putting each data point into a separate cluster, a probability or likelihood of that data point to be in those clusters is assigned. For example, from the above scenario each costumer is assigned a probability to be in either of 10 clusters of the retail store.
+In soft clustering, instead of putting each data point into a separate cluster, a probability or likelihood of that data point to be in those clusters is assigned.
 
 
 # Types of clustering algorithms
